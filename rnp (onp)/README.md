@@ -1,4 +1,4 @@
-# ONP Converter – Infix to Postfix (Reverse Polish Notation)
+# RNP Converter – Infix to Postfix (Reverse Polish Notation)
 
 A simple implementation of the Shunting Yard algorithm in C++.
 
